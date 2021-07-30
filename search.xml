@@ -5,8 +5,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/hello-world/"/>
-      <url>/hello-world/</url>
+      <link href="/blog5/hello-world/"/>
+      <url>/blog5/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Templete 5</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">&#x27;Hello, World&#x27;</span>);</span><br></pre></td></tr></table></figure>]]></content>
       
