@@ -27,3 +27,6 @@ social_links:
   github: http://github.com/{{github_username}}
 
 colorscheme: "dark"
+
+mathjax:
+  enabled: true
