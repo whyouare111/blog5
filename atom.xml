@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{site_name}}</title>
+  
+  
+  <link href="atom.xml" rel="self"/>
+  
+  <link href="https://{{github_username}}.github.io/%7B%7Bsite_repo_name%7D%7D/"/>
+  <updated>2021-07-30T09:31:22.286Z</updated>
+  <id>https://{{github_username}}.github.io/%7B%7Bsite_repo_name%7D%7D/</id>
+  
+  <author>
+    <name>{{author}}</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="hello-world/"/>
+    <id>hello-world/</id>
+    <published>2021-07-30T17:30:00.000Z</published>
+    <updated>2021-07-30T09:31:22.286Z</updated>
+    
+    <content type="html"><![CDATA[<p>Templete 5</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">&#x27;Hello, World&#x27;</span>);</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Templete 5&lt;/p&gt;
+&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
