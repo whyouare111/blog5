@@ -12,6 +12,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
+    "@jiangtj/hexo-next-pwa": "^2.0.1",
     "hexo": "^5.0.0",
     "hexo-cli": "^4.3.0",
     "hexo-generator-archive": "^1.0.0",
